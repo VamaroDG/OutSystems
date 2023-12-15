@@ -1,6 +1,6 @@
 # BlockBuster
 
-A small project I had to develop over the course of 3 weeks. 
+A small project I had to develop over the course of 2 months. 
 
 The objective was to analyze with the customer how the whole system would be built, the requirements and business logic. 
 
