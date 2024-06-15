@@ -14,4 +14,4 @@ I also did my best to explain what happens behind the scenes on the many differe
 
 Any questions feel free to contact me! 
 
-P.S. Reservation enitity was abandoned and having no use whatsoever.
+P.S. Reservation entity was abandoned and has no use whatsoever.
